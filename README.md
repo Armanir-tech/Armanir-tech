@@ -1,4 +1,4 @@
-# ARMAN IRANZAD KHIYABAN
+# ARMAN
 
 Management Information Systems MSc student at Istanbul University, focused on AI-assisted research tools, RAG systems, LLM APIs, prompt engineering, and applied machine learning.
 
