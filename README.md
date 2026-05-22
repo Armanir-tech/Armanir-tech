@@ -46,4 +46,4 @@ Agentic AI systems, AI research assistants, language models, development policy,
 
 ## Contact
 
-Email: arman.khiyaban@ogr.iu.edu.tr
+For professional contact, please use GitHub or the contact information included in my CV.
