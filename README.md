@@ -31,6 +31,15 @@ A university machine learning project using Yahoo Finance data to compare models
 
 Repository: [financial-market-direction-prediction](https://github.com/Armanir-tech/financial-market-direction-prediction)
 
+### Depth Map Maker
+
+A private experimental tool for turning images into machine-ready relief assets.
+
+- Converts source images into editable depth-map previews.
+- Provides interactive refinement controls for surface, edge, and relief quality.
+- Includes 3D preview, brush-based editing, and export-oriented workflow experiments.
+- Focuses on practical image-to-relief production workflows while the core implementation remains private.
+
 ## Technical Focus
 
 - Python, FastAPI, REST APIs
