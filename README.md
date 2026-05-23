@@ -40,6 +40,8 @@ A private experimental tool for turning images into machine-ready relief assets.
 - Includes 3D preview, brush-based editing, and export-oriented workflow experiments.
 - Focuses on practical image-to-relief production workflows while the core implementation remains private.
 
+Project overview: [depth-map-maker](https://github.com/Armanir-tech/depth-map-maker)
+
 ## Technical Focus
 
 - Python, FastAPI, REST APIs
